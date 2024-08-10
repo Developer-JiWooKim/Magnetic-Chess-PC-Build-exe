@@ -3,6 +3,9 @@ Unity Version 2022.3.19f1 LTS URP
 
 Magnetic Chess Game PC Build입니다. 다운로드 후 exe 파일을 실행하면 PC에서 게임을 플레이 할 수 있습니다.
 
+게임 플레이 영상
+https://youtu.be/SnjKNFRUPV0
+
 ---------------------------------------------------------------------------------------------------------------------------
 AI battle icon 출처
 <a href="https://www.flaticon.com/kr/free-icons/ai-" title="ai 어시스턴트 아이콘">Ai 어시스턴트 아이콘 제작자: Freepik - Flaticon</a>
